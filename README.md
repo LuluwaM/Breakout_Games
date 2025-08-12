@@ -9,6 +9,6 @@ The player controls a paddle to bounce a ball and break all the bricks on the sc
 
 
 ## 🛠️ Tools Used
-- Unity 
+- Unity 2022.3.49f1 
 - #C   
 
